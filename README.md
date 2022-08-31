@@ -25,9 +25,9 @@
 Проверка гипотез.
 
 ## Инструменты:
-Pyton
-Pandas
-Jupyter Notebook 
+Pyton  
+Pandas  
+Jupyter Notebook   
 
 ## Итоги исследования
 Мы проверили три гипотезы и установили:
